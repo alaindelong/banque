@@ -1,0 +1,23 @@
+#item{
+    float: right;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.icon{
+    float: right;
+}
+.form-rounded{
+    border-radius: 2rem;
+    width: 300px;
+}
+.spacer{
+    background-color: #ECE4E4;
+    height: 300px;
+}
+.list{
+    list-style-type: none;
+}
